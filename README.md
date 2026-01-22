@@ -1,3 +1,5 @@
+[![es](https://img.shields.io/badge/lang-es-red)](https://github.com/MarceloDanielToledo/design-doc-template/blob/main/README.es.md)
+
 ## A Great Design Document Template ⚡
 
 A software design is a detailed roadmap that guides a team towards the success of a project. Imagine creating a new search feature in an application: without a clear design, the team could get lost in a sea of possibilities, leading to delays and unexpected results.
