@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red)](https://github.com/MarceloDanielToledo/design-doc-template/blob/main/README.md)
+
 ## Una Gran Plantilla de Documento de Diseño ⚡
 
 Un diseño de software es una hoja de ruta detallada que guía a un equipo hacia el éxito de un proyecto. Imagina crear una nueva función de búsqueda en una aplicación: sin un diseño claro, el equipo podría perderse en un mar de posibilidades, lo que llevaría a retrasos y resultados inesperados.
