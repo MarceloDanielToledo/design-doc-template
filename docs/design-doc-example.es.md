@@ -209,32 +209,32 @@ El equipo de soporte necesitará explicar claramente a los clientes por qué se 
 
 ### Alcance Detallado:
 
-**Fase 1: Análisis de Requisitos y Planificación (Fecha: 1ra semana)**
+**Fase 1: Análisis de Requisitos y Planificación (Fecha: Semana 1)**
 
 - Reuniones con las partes interesadas para definir requisitos específicos del sistema.
 - Preparación del documento final de requisitos.
 
-**Fase 2: Diseño del Sistema (Fecha: 2da-3ra semana)**
+**Fase 2: Diseño del Sistema (Fecha: Semana 2-3)**
 
 - Diseño de la arquitectura del sistema, incluyendo flujos de datos y estructura de la base de datos.
 - Creación de maquetas para la interfaz de usuario.
 
-**Fase 3: Desarrollo Inicial (Fecha: 4ta-8ta semana)**
+**Fase 3: Desarrollo Inicial (Fecha: Semana 4-8)**
 
 - Implementación de la estructura básica del sistema.
 - Desarrollo de funcionalidades críticas, como gestión de inventario y seguimiento de stock.
 
-**Fase 4: Integración y Pruebas (Fecha: 9na-11va semana)**
+**Fase 4: Integración y Pruebas (Fecha: Semana 9-11)**
 
 - Integración con sistemas existentes.
 - Realización de pruebas unitarias y de integración para asegurar la calidad del sistema.
 
-**Fase 5: Implementación Piloto (Fecha: 12va semana)**
+**Fase 5: Implementación Piloto (Fecha: Semana 12)**
 
 - Despliegue inicial en un entorno controlado.
 - Recolección de comentarios y ajustes basados en la experiencia del usuario.
 
-**Fase 6: Despliegue Completo y Capacitación (Fecha: 13va-14va semana)**
+**Fase 6: Despliegue Completo y Capacitación (Fecha: Semana 13-14)**
 
 - Despliegue del sistema en toda la fábrica.
 - Capacitación de usuarios finales para asegurar una transición fluida.
